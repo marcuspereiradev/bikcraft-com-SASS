@@ -13,11 +13,11 @@
 	text-align: center;
 	font-style: italic;
 	margin-bottom: 20px;
-    @include type-2(18);
+	@include tipo-2(18);
 }
 
 .quote_clientes cite {
-	@include type-1(18);
+	@include tipo-1(18);
 	font-weight: bold;
 	float: right;
 	font-style: normal;

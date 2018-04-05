@@ -1,17 +1,13 @@
-@import 'variaveis_e_mixins';
-// GERAIS
+@import 'variaveis-e-mixins';
+
+// Gerais
 @import 'normalize';
 @import 'reset';
 @import 'grid';
 @import 'geral';
 
-// PÁGINAS
+// Páginas
 @import 'sobre';
 @import 'produtos';
 @import 'portfolio';
 @import 'contato';
-
-// RESPONSIVO
-@import 'responsivo';
-
-
